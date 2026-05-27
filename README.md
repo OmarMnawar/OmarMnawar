@@ -8,8 +8,8 @@
 - Hobbies: Gym, Programming and learning music
 ---
 ## Contact
-LinkedIn: [Link Text](https://www.linkedin.com/in/omar-mnawar-93431036b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-Personal Website: [Link Text](omarmnawar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mnawar-93431036b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[Website](https://omarmnawar.github.io)
 
 <!--
 **OmarMnawar/OmarMnawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
