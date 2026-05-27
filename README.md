@@ -1,5 +1,5 @@
 ---
-### About me
+## About me
 - Location: Germany
 - Work: Currently doing so called Vocational Training under a company.
 - Worktime: 40 up to 48 Hours a week
@@ -8,8 +8,8 @@
 - Hobbies: Gym, Programming and learning music
 ---
 ## Contact
-LinkedIn: [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
-Personal Website: [omarmnawar.github.io]
+LinkedIn: [Link Text](https://www.linkedin.com/in/omar-mnawar-93431036b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Personal Website: [Link Text](omarmnawar.github.io)
 
 <!--
 **OmarMnawar/OmarMnawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
